@@ -1,7 +1,7 @@
 # 🩺 DocSpot – Doctor Appointment Booking Platform
 
 DocSpot is a full-stack web application that allows patients to book appointments with doctors, while providing doctors and admins with dedicated dashboards to manage schedules and requests.
-
+ 
 
 
 ## 📁 Project Structure
@@ -62,11 +62,3 @@ cd ../frontend
 npm install
 npm start
 ```
-
-
-
----
-
-## 🔗 Live Deployment
-
-🟢 **Live URL**: [https://book-a-doctor1.onrender.com](https://book-a-doctor1.onrender.com)
